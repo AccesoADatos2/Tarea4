@@ -18,7 +18,7 @@ import java.util.Scanner;
 
 /**
  *Gestion de alumnos: lectura/escritura
- * @author Diego
+ * @author Ainhoa
  * @version 1.0.0
  */
 
