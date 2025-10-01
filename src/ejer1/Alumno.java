@@ -5,7 +5,7 @@ import java.util.Comparator;
 import java.util.Date;
 import java.util.Objects;
 
-/* @author Diego
+/* @author Ainhoa
  * @version 1.0.0
  */
 
