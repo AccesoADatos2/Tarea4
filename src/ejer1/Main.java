@@ -15,7 +15,7 @@ import java.util.Scanner;
 
 
 public class Main {
-	/* @author Diego
+	/* @author Ainhoa
 	 * @version 1.0.0
 	 */
     public static void main(String[] args) {
